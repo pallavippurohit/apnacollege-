@@ -1,3 +1,7 @@
 Hiiii
 i am learning git 
+<<<<<<< HEAD
 i am learning git by apna college
+=======
+i am learning python by shraddha
+>>>>>>> main
